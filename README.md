@@ -3,14 +3,14 @@
 Colection of deep learning colab notebooks to be used as working examples for different tasks. 
 
 
-* [Image classification]()
-  - Introduction to image classification 
+* [Image classification](https://github.com/MedicalImageAnalysisTutorials/DeepLearning4All/blob/main/IA_DNN_ImageClassification.ipynb)
+  - Introduction to image classification with useful resources.
   - Practical example using MINSt and CIFAR10 datasets.
   - Tensorflow loops 
   - Augmentation implementation
   - Logging and plotting implemttaion
   - Neural Network vs Concolutional Neural Network
- 
+  
 * Image segmentation
 * Image registeration 
 * Object recognition
